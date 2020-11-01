@@ -9,7 +9,7 @@
 	<name>GitVersioning</name>
 	
 	<properties>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<jgit.version>4.1.0.201509280440-r</jgit.version>
 		<apache.commons.version>3.0</apache.commons.version>
 		<log4j.version>2.4.1</log4j.version>
